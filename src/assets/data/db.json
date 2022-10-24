@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Baiju A.J",
+      "company": "Perfect Insulation",
+      "email": "baijuamaparambil@gmail.com",
+      "title": "Insulation Contractor",
+      "mobile": "1234567890",
+      "photo": "https://i.postimg.cc/sDWBQ6XY/user1.png",
+      "groupId": "1"
+    },
+    {
+      "id": "02",
+      "name": "K.A Robert",
+      "company": "KAR Groups",
+      "email": "robert@gmail.com",
+      "title": "Interior Supervaisor(MRI)",
+      "mobile": "1234567890",
+      "photo": "https://i.postimg.cc/sDWBQ6XY/user1.png",
+      "groupId": "2"
+    },
+    {
+      "id": "03",
+      "name": "K.A Romy",
+      "company": "KAR Groups",
+      "email": "romy@gmail.com",
+      "title": "Tile Contractor",
+      "mobile": "1234567890",
+      "photo": "https://i.postimg.cc/sDWBQ6XY/user1.png",
+      "groupId": "3"
+    },
+    {
+      "id": "04",
+      "name": "Fulja A.J",
+      "company": "KAR Groups",
+      "email": "fulja@gmail.com",
+      "title": "Income Tax Consultor",
+      "mobile": "1234567890",
+      "photo": "https://i.postimg.cc/sDWBQ6XY/user1.png",
+      "groupId": "4"
+    },
+    {
+      "name": "June",
+      "photo": "https://i.postimg.cc/4dL3bV5D/profile1.png",
+      "email": "june@gmail.com",
+      "mobile": "9495778210",
+      "company": "Peppie's Tailor Shop",
+      "title": "Fashion Designer",
+      "id": "yHvYy4k"
+    }
+  ]
+}
